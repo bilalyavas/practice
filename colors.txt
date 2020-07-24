@@ -5,6 +5,8 @@ blue
 pink
 orange
 ###brown
+violet
+apricot
 white
 purple
 yellow
